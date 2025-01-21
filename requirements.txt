@@ -1,5 +1,13 @@
-transformers==4.36.2
 torch==2.2.0
 torchaudio==2.2.0
-gradio==4.12.0
+numpy==1.24.3
+transformers==4.36.2
 speechbrain==0.5.16
+gradio==4.12.0
+huggingface-hub==0.20.3
+scipy==1.11.4
+librosa==0.10.1
+soundfile==0.12.1
+python-multipart==0.0.6
+uvicorn==0.24.0
+fastapi==0.104.1
